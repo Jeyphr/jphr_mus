@@ -3600,3 +3600,21 @@
 ( -1216 -96 -64 ) ( -1216 -288 -64 ) ( -832 -96 -64 ) TRIGGER [ -1 0 0 0 ] [ 0 -1 0 -8 ] 0 1 1
 }
 }
+{
+"classname" "func_ending"
+"cost" "32000"
+"skin" "0"
+"model" "models/props/jphr/Deamor.mdl"
+"origin" "-672 0 -16"
+}
+{
+"classname" "misc_model"
+"model" "models/sprites/lightning.spr"
+"spawnflags" "64"
+"angles" "0 89 0"
+"month_limiter" "0"
+"gamemode_limiter" "0"
+"first_frame" "0"
+"last_frame" "2"
+"origin" "-672 0 -16"
+}
