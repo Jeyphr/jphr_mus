@@ -2,11 +2,11 @@ NZP Museum
 Contains everything you'll need
 to start your mapping adventure!
 
+
  
  
  
  
- 
-Jeyphr [0.5]
+Jeyphr [1.0]
 1
 1
